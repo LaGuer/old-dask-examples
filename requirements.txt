@@ -1,6 +1,6 @@
 cython
-git+https://github.com/dask/dask.git#egg=dask[complete]
-git+https://github.com/blaze/castra.git#egg=castra
+#git+https://github.com/dask/dask.git#egg=dask[complete]
+#git+https://github.com/blaze/castra.git#egg=castra
 numpy
 toolz
 dill
